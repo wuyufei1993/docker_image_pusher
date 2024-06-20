@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 apache/openmeetings:7.2.0
+kurento/kurento-media-server:latest
