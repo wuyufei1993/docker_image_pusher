@@ -1,4 +1,4 @@
-jitsi/web:stable-9457
-jitsi/prosody:stable-9457
-jitsi/jicofo:stable-9457
-jitsi/jvb:stable-9457
+jitsi/web:stable-9364-1
+jitsi/prosody:stable-9364-1
+jitsi/jicofo:stable-9364-1
+jitsi/jvb:stable-9364-1
