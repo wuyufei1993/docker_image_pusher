@@ -8,3 +8,7 @@ xhofe/alist:latest
 apache/openmeetings:7.2.0
 kurento/kurento-media-server:latest
 bigbluebutton/greenlight:v3.3.5-alpine
+jitsi/web:stable-9457-2
+jitsi/prosody:stable-9457-2
+jitsi/jicofo:stable-9457-2
+jitsi/jvb:stable-9457-2
