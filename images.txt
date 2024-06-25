@@ -1,14 +1,4 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-
-apache/openmeetings:7.2.0
-kurento/kurento-media-server:latest
-bigbluebutton/greenlight:v3.3.5-alpine
-jitsi/web:stable-9457-2
-jitsi/prosody:stable-9457-2
-jitsi/jicofo:stable-9457-2
-jitsi/jvb:stable-9457-2
+jitsi/web:stable-9457
+jitsi/prosody:stable-9457
+jitsi/jicofo:stable-9457
+jitsi/jvb:stable-9457
