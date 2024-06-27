@@ -1,4 +1,1 @@
-jitsi/web:stable-9364-1
-jitsi/prosody:stable-9364-1
-jitsi/jicofo:stable-9364-1
-jitsi/jvb:stable-9364-1
+rapidfort/python-chromedriver:latest
