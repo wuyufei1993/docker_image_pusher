@@ -1,1 +1,1 @@
-rapidfort/python-chromedriver:latest
+mysql:8.0.38
