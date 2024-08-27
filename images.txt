@@ -1,1 +1,1 @@
-redis:7.4.0
+jenkins/jenkins:2.346.3-2-lts
