@@ -1,1 +1,1 @@
-jenkins/jenkins:2.462.1
+clickhouse/clickhouse-server:24.7.4
