@@ -1,1 +1,1 @@
-apache/flink:1.17.1-scala_2.12
+registry:2
