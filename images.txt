@@ -1,2 +1,1 @@
-flannel/flannel:v0.25.6
-flannel/flannel-cni-plugin:v1.5.1-flannel2
+flink:1.17.1-scala_2.12-java8
