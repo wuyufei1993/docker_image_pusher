@@ -1,1 +1,1 @@
-registry:2
+ubuntu/jre:8-22.04_48
