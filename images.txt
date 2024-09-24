@@ -1,1 +1,1 @@
-ubuntu/jre:8-22.04_48
+apache/hadoop:3.3.6
