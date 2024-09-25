@@ -1,1 +1,2 @@
-registry.k8s.io/metrics-server/metrics-server:v0.6.4
+registry.k8s.io/autoscaling/addon-resizer:1.8.20
+
