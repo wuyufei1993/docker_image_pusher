@@ -1,1 +1,1 @@
-marqoai/marqo:latest
+vespaengine/vespa:8
