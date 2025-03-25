@@ -1,4 +1,4 @@
-nvidia/cuda:12.6.3-base-ubuntu22.04
-nvidia/cuda:12.6.3-runtime-ubuntu22.04
-nvidia/cuda:12.6.3-devel-ubuntu22.04
-nvidia/cuda:12.6.3-cudnn-devel-ubuntu22.04
+nvidia/cuda:12.4.1-base-ubuntu22.04
+nvidia/cuda:12.4.1-runtime-ubuntu22.04
+nvidia/cuda:12.4.1-devel-ubuntu22.04
+nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
