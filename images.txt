@@ -1,1 +1,2 @@
-nextcloud:30.0.13
+influxdb:3.6.0-core
+influxdata/influxdb3-ui:1.4.0
