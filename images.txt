@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/nsxym/influxdb:2.7
+influxdb:2.7
