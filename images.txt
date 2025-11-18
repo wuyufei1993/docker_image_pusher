@@ -1,2 +1,1 @@
-influxdb:3.6.0-core
-influxdata/influxdb3-ui:1.4.0
+registry.cn-hangzhou.aliyuncs.com/nsxym/influxdb:2.7
