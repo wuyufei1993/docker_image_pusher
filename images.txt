@@ -1,1 +1,2 @@
-minio/minio:latest
+zookeeper:3.9
+apache/kafka:4.1.1
