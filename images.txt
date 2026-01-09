@@ -1,1 +1,1 @@
-clickhouse/clickhouse-server:24.7.4
+portainer/portainer-ce:2.33.6
