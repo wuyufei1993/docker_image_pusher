@@ -1,1 +1,3 @@
-java:8-jre-alpine
+yedajiang44/jt808terminalemulator:latest
+yedajiang44/jt808terminalemulator-ui:latest
+postgres:18.1
