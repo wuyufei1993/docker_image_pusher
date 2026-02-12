@@ -1,3 +1,1 @@
-yedajiang44/jt808terminalemulator:latest
-yedajiang44/jt808terminalemulator-ui:latest
-postgres:18.1
+openzipkin/zipkin
